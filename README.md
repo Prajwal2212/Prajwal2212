@@ -1,0 +1,7 @@
+- 👋 Hi Human race, I’m @Prajwal2212
+- 👀 I’m interested in iOS development and AI/ML
+- 🌱 I’m currently learning OpenAI and Computer Vision 
+- 💞️ I’m looking to collaborate on any AI/ML tool based website
+- 📫 How to reach me : @prajwalprasad12 on ig
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: There are only 2 genders.
