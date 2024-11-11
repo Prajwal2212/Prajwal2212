@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 # - 👋 Hi Human race, I’m Prajwal (I am Groot)
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
+<img align="right" alt="Coding" width="400" 
 - 👀 I’m interested in iOS development and AI/ML (i AM gROOT)
 - 🌱 I’m currently learning OpenAI and Computer Vision (I aM gRoOt)
 - 💞️ I’m looking to collaborate on any AI/ML tool based website (i aM GroOT)
 - 📫 How to reach me : @prajwalprasad12 on ig (I Am gROot)
 - 😄 Pronouns: Groot/Groot
 - ⚡ Fun fact: There are only 2 genders. (i am groot)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
